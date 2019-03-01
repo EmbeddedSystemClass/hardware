@@ -1,10 +1,11 @@
-Output: Report Single Pin Nets
-Type  : SinglePinNetReporter
+Output: Simple BOM
+Type  : SimpleBOM
 From  : Variant [[No Variations]] of Project [Free Documents]
-   Generated File[qav90.REP]
+   Generated File[qav90.BOM]
+   Generated File[qav90.CSV]
 
 
-Files Generated   : 1
+Files Generated   : 2
 Documents Printed : 0
 
-Finished Output Generation At 17:13:38 On 2019/2/27
+Finished Output Generation At 16:26:40 On 2019/3/1
