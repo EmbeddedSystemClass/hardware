@@ -1,0 +1,18 @@
+------------------------------------------------------------
+Single Pin Net Report for qav90.SchDoc
+-- 2019/2/27
+-- 17:13:38
+------------------------------------------------------------
+
+Net AD-BAT has only one pin (Pin U4-18)
+Net FCS has only one pin (Pin U1-25)
+Net HMC-INT has only one pin (Pin U1-3)
+Net R_CE has only one pin (Pin U1-19)
+Net R_CS has only one pin (Pin U1-18)
+Net R_I has only one pin (Pin U1-17)
+Net R_INT has only one pin (Pin U1-14)
+Net R_K has only one pin (Pin U1-15)
+Net R_O has only one pin (Pin U1-16)
+Net SCLK has only one pin (Pin U1-26)
+Net SDI has only one pin (Pin U1-28)
+Net SDO has only one pin (Pin U1-27)
