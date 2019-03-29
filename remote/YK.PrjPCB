@@ -128,15 +128,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [GeneratedDocument1]
-DocumentPath=remote.PcbDoc.htm
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for YK\YK_MC.BOM
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for YK\YK_MC.CSV
+DocumentPath=
 DItemRevisionGUID=
 
 [Configuration1]
