@@ -147,10 +147,6 @@ GenerateClassCluster=0
 DocumentPath=Project Outputs for qav90\Design Rule Check - qav90.html
 DItemRevisionGUID=
 
-[GeneratedDocument2]
-DocumentPath=qav90.PcbDoc.htm
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
